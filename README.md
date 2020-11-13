@@ -1,4 +1,4 @@
-# YTSY
+# Feast ether
 YTSY
 
 # Project and introduction
