@@ -1,7 +1,4 @@
 # Feast ether
-YTSY
-
-# Project and introduction
 
 Feast ether is an Ethereum-based financial management project initiated by the Canadian Ethereum Feast Community. It combines blockchain technology and advanced mathematical models, based on investor funds and the profits of the entity industry, and distributes them reasonably through mathematical financial management models to achieve the purpose of empowering the entity industry, allowing reasonable cash flow to flow, and common profit. Its back-end program relies on blockchain smart contract technology to be implemented, which is open and transparent, safe and reliable, and cannot be tampered with.
 
